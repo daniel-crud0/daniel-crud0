@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/tHIRLHtNwxpjIFqPdV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV">via GIPHY</a></p>"  />
+![play-preview](https://github.com/NigelMarshal/spicetify-dancing-raccoon/assets/11574237/8fc88000-f2c4-49f0-990d-947bf1458c06)
 
 ###
 
