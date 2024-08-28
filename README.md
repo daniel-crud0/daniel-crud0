@@ -2,7 +2,7 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/tHIRLHtNwxpjIFqPdV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV">via GIPHY</a></p>
+<div class="tenor-gif-embed" data-postid="12980208777396115333" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/raccoon-dance-rave-dancing-pedro-gif-12980208777396115333">Raccoon Dance GIF</a>from <a href="https://tenor.com/search/raccoon-gifs">Raccoon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
